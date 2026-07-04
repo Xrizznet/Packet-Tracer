@@ -1,2 +1,2 @@
 # Packet-Tracer
-Packet Tracer - Intro to Networking
+In this Folder I will be displaying skills and simulations I've learned while doing Cisco's Networking Academy: Getting Started with Cisco Packet Tracer course. My goal is to use the siulation to reflect my current home lab set up and practice using cisco's terminal. I'm going to upload my packet tracer assignments following along with each modules. At the same time Im going to apply what I learned from this module then add it to my home lab set up and upload it. 
